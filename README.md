@@ -1,2 +1,3 @@
 # testing-things-out
-This repository is for practicing the GitHub Flow (cause I didn't get it the first time). 
+My name is Andrew Bunton. I'm a student at Georgia Southern University. 
+Blah blah blah
